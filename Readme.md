@@ -13,7 +13,7 @@ Each project is contained within its own directory and includes a dedicated `Rea
 | 1 | Big Market Sales Prediction (XGBoost) | [View README](./BigMarketSalesXGBoost/Readme.md) |
 | 2 | Calories Burnt Prediction (XGBoost) | [View README](./CaloriesBurntXGBoost/Readme.md) |
 | 3 | Car Price Prediction (Lasso) | [View README](./CarPricePredcitonLasso/Readme.md) |
-| 4 | Customer Segmentation (K-Means) | [View README](./CustomerSegemtationKmean/Readme.md) |
+| 4 | Customer Segmentation (K-Means) | [View README](./CustomerSegemtnationKmean/Readme.md) |
 | 5 | Diabetes Prediction (SVC) | [View README](./DiabetesPredictionSVC/Readme.md) |
 | 6 | Fake News Prediction (Logistic Regression) | [View README](./FakeNewPredictionLogisctics/Readme.md) |
 | 7 | Gold Price Prediction (Random Forest) | [View README](./GoldPriceRandomForest/Readme.md) |
