@@ -9,15 +9,15 @@ Each project is organized in its own folder with code, data, and documentation.
 
 | #  | Project Name                                   | Description                                   | README Link                                                        |
 |----|------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------|
-| 1  | Customer Segmentation (K-Means)                | Segmenting customers with K-Means clustering  | [View README](./CustomerSegemtnationKmean/Readme.md)               |
-| 2  | Diabetes Prediction (SVC)                      | Diabetes classification using SVC             | [View README](./DiabetesPredictionSVC/Readme.md)                   |
-| 3  | Fake News Prediction (Logistic Regression)     | Detecting fake news with logistic regression  | [View README](./FakeNewPredictionLogisctics/Readme.md)             |
-| 4  | Gold Price Prediction (Random Forest)          | Gold price forecasting using Random Forest    | [View README](./GoldPriceRandomForest/Readme.md)                   |
-| 5  | House Price Prediction (XGBoost)               | House price regression with XGBoost           | [View README](./HousePricePredictionXGBooster/Readme.md)           |
-| 6  | Movie Recommendation App                       | Movie recommender system                      | [View README](./MovierecommendationApp/Readme.md)                  |
-| 7  | Movies Recommendation System                   | Content-based movie recommendations           | [View README](./MoviesRecommendationSystem/Readme.md)              |
-| 8  | Music Recommendation App                       | Music recommender system                      | [View README](./MusicRecommendationApp/Readme.md)                  |
-| 9  | Wine Quality Prediction (Random Forest)        | Wine quality classification                   | [View README](./WineQualityPredictionRandomForest/Readme.md)       |
+| 1  | Customer Segmentation (K-Means)                | Segmenting customers with K-Means clustering  | [View](./CustomerSegemtnationKmean/Readme.md)               |
+| 2  | Diabetes Prediction (SVC)                      | Diabetes classification using SVC             | [View](./DiabetesPredictionSVC/Readme.md)                   |
+| 3  | Fake News Prediction (Logistic Regression)     | Detecting fake news with logistic regression  | [View](./FakeNewPredictionLogisctics/Readme.md)             |
+| 4  | Gold Price Prediction (Random Forest)          | Gold price forecasting using Random Forest    | [View](./GoldPriceRandomForest/Readme.md)                   |
+| 5  | House Price Prediction (XGBoost)               | House price regression with XGBoost           | [View](./HousePricePredictionXGBooster/Readme.md)           |
+| 6  | Movie Recommendation App                       | Movie recommender system                      | [View](./MovierecommendationApp/Readme.md)                  |
+| 7  | Movies Recommendation System                   | Content-based movie recommendations           | [View](./MoviesRecommendationSystem/Readme.md)              |
+| 8  | Music Recommendation App                       | Music recommender system                      | [View](./MusicRecommendationApp/Readme.md)                  |
+| 9  | Wine Quality Prediction (Random Forest)        | Wine quality classification                   | [View](./WineQualityPredictionRandomForest/Readme.md)       |
 
 ---
 
